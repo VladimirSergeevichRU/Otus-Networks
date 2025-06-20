@@ -1,2 +1,2 @@
-# Otus-Netwworks
+# Otus-Networks
 ### Курс "Сетевой Инженер"
